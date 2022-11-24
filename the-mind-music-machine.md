@@ -1,4 +1,4 @@
----
+<!-- ---
 author: e-liouta
 title: The Mind Music Machine
 year: 2016
@@ -15,4 +15,4 @@ tags:
   - Michigan Technological University
   - Philart Jeon
   - Mind Music Machine 
----
+--- -->
