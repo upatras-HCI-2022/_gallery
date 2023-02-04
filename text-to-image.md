@@ -10,7 +10,7 @@ caption: 'Το Κείμενο σε Εικόνα AI είναι τεχνολογί
 Η λεζάντα της φωτογραφίας δημιουργήθηκε με τη χρήση του δωρεάν λογισμικού Διαδικτύου «DeepAI», ένα Text To Image - AI Image Generator
 και χρησιμοποιώντας το «Dancing Animals» ως εισαγωγή του κειμένου εισόδου.'
 license_url: 'https://raw.githubusercontent.com/CompVis/stable-diffusion/main/LICENSE'
-license_text: he license terms of the photo can be found here:(https://raw.githubusercontent.com/CompVis/stable-diffusion/main/LICENSE)[https://raw.githubusercontent.com/CompVis/stable-diffusion/main/LICENSE]
+license_text: he license terms of the photo can be found here:[https://raw.githubusercontent.com/CompVis/stable-diffusion/main/LICENSE](https://raw.githubusercontent.com/CompVis/stable-diffusion/main/LICENSE)
 categories:
   - AI Alorigthm
   - AI Models
