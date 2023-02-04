@@ -1,7 +1,7 @@
 ---
 author: Evangelia Chatzilygeroudi
 title: Text to Image
-year: 1990
+year: 1990 
 image_url: /images/text-to-image.jpeg
 caption: 'Το Κείμενο σε Εικόνα AI είναι τεχνολογία που μετατρέπει κείμενο σε Εικόνες/Εικόνες, χρησιμοποιώντας αλγόριθμους τεχνητής νοημοσύνης. Τα μοντέλα AI τροφοδοτούνται με τεράστιο όγκο εικόνων/εικόνων με απλή περιγραφή
 προκειμένου να εκπαιδευτούν στη μετατροπή κειμένου σε εικόνα. Αυτοί οι αλγόριθμοι, ακόμη κι αν μπορούν να δημιουργήσουν τέχνη τεχνητής νοημοσύνης, εξωπραγματικές εικόνες ή αστείες παράδοξες εικόνες,
@@ -10,11 +10,11 @@ caption: 'Το Κείμενο σε Εικόνα AI είναι τεχνολογί
 Η λεζάντα της φωτογραφίας δημιουργήθηκε με τη χρήση του δωρεάν λογισμικού Διαδικτύου «DeepAI», ένα Text To Image - AI Image Generator
 και χρησιμοποιώντας το «Dancing Animals» ως εισαγωγή του κειμένου εισόδου.'
 license_url: 'https://raw.githubusercontent.com/CompVis/stable-diffusion/main/LICENSE'
-license_text: he license terms of the photo can be found here:[https://raw.githubusercontent.com/CompVis/stable-diffusion/main/LICENSE](https://raw.githubusercontent.com/CompVis/stable-diffusion/main/LICENSE)
+license_text: Text to Image
 categories:
   - AI Alorigthm
   - AI Models
   - Text to Image
 tags:
-  -  
+  - 
 ---
