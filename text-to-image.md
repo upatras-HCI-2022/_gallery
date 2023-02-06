@@ -1,5 +1,5 @@
 ---
-author: Evangelia Chatzilygeroudi
+author: EvangeliaChatz
 title: Text to Image
 year: 1990 
 image_url: /images/text-to-image.jpeg
