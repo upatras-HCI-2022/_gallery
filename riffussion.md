@@ -1,5 +1,5 @@
 ---
-author: Evangelia Chatzilygeroudi
+author: EvangeliaChatz
 title: Riffussion
 year: 2022
 image_url: /images/riffussion.png
