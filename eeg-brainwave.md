@@ -9,9 +9,9 @@ caption: 'Ο Θεόδωρος Παπαθεοδώρου και ο Tom Chambers σ
 license_url: 'https://mashable.com/article/brainwaves-painting-eeg-art-memories-emotions'
 license_text: Mashable
 categories:
-  - Digital Art
+  - visualization
   - Art
-  - Electroencephalography
+  - Τέχνη
 tags:
   - Random Quark
   - Tom Chambers
