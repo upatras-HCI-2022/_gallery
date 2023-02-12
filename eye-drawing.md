@@ -9,9 +9,9 @@ caption: 'Στην Riflemaker Gallery του Λονδίνου το 2015, ο κα
 license_url: 'https://grahamfink.com/artwork'
 license_text: Graham Fink Artworks
 categories:
-  - Digital Art
+  - visualization
   - Art
-  - Eye tracking
+  - Τέχνη
 tags:
   - Graham Fink
   - Tobii
